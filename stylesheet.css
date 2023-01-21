@@ -1,0 +1,36 @@
+@font-face {
+    font-family: hack ;
+    src: url(Hack-Regular.ttf);
+}
+
+body {
+
+    font-family: hack;
+
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.menu {
+    color: #2fbd55;
+    font-size: 25px;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+.content {
+    color: #000000;
+    font-size: 20px;
+    padding: 35px;
+    text-align: left;
+    font-weight: bolder;
+
+}
