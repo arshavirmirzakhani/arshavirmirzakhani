@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshavirmirzakhani
 - 🌍 Iranian 
-- 👀 I’m interested in videogame programming , wordpress and C# development 
+- 👀 I’m interested in videogame programming , c++ and C# development 
 - 🌱 I’m currently working on a game engine project and a programming language for fun :D
 - 📫 my website https://arshavirmirzakhani.github.io/arshavirmirzakhani/
 - 🥂 also thanks to my friend @saman929 for helping me in projects
