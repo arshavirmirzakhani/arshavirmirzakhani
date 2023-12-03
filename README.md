@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @arshavirmirzakhani
-- 🌍 Iranian 
-- 👀 I’m interested in videogame programming , c++ and C# development 
-- 🌱 Biology student
+ Hi, I’m @arshavirmirzakhani
+ a 14 year old programmer who is a biology student too!
+ 
+ [my website](https://arshavirmirzakhani.github.io/arshavirmirzakhani/)
+
 
